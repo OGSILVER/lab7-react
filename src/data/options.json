@@ -1,0 +1,48 @@
+{
+  "countries": [
+    "Albania", "Austria", "Belgium", "Bosnia and Herzegovina", "Bulgaria",
+    "Croatia", "Czech Republic", "Denmark", "Estonia", "Finland",
+    "France", "Germany", "Greece", "Hungary", "Ireland",
+    "Italy", "Latvia", "Lithuania", "Luxembourg", "Moldova",
+    "Netherlands", "Norway", "Poland", "Portugal", "Romania",
+    "Serbia", "Slovakia", "Slovenia", "Spain", "Sweden",
+    "Switzerland", "Ukraine", "United Kingdom", "United States", "Canada",
+    "Australia", "Japan", "South Korea", "Other"
+  ],
+  "purposes": [
+    { "id": "gaming", "label": "Gaming", "icon": "🎮", "desc": "High FPS, smooth gameplay" },
+    { "id": "work", "label": "Work & Productivity", "icon": "💼", "desc": "Office, meetings, multitasking" },
+    { "id": "school", "label": "School & Study", "icon": "📚", "desc": "Research, writing, light tasks" },
+    { "id": "creative", "label": "Creative & Content", "icon": "🎨", "desc": "Video editing, 3D, design" },
+    { "id": "streaming", "label": "Streaming", "icon": "📺", "desc": "Live streaming & recording" }
+  ],
+  "coolers": [
+    { "id": "air", "label": "Air Cooler", "icon": "💨", "desc": "Quiet, reliable, budget-friendly" },
+    { "id": "aio240", "label": "AIO 240mm", "icon": "💧", "desc": "Liquid cooling, great performance" },
+    { "id": "aio360", "label": "AIO 360mm", "icon": "🌊", "desc": "Maximum cooling for high-end CPUs" }
+  ],
+  "ramSizes": ["8 GB", "16 GB", "32 GB", "64 GB", "128 GB"],
+  "ramTypes": ["DDR4", "DDR5"],
+  "storageSizes": ["256 GB", "512 GB", "1 TB", "2 TB", "4 TB"],
+  "vramOptions": [
+    { "value": "any", "label": "Any VRAM" },
+    { "value": 8, "label": "8 GB" },
+    { "value": 12, "label": "12 GB" },
+    { "value": 16, "label": "16 GB" },
+    { "value": 20, "label": "20 GB" },
+    { "value": 24, "label": "24 GB" }
+  ],
+  "caseColors": [
+    { "id": "black", "label": "Stealth Black", "hex": "#1a1a1a" },
+    { "id": "white", "label": "Arctic White", "hex": "#f0f0f0" },
+    { "id": "red", "label": "Crimson Red", "hex": "#c0392b" },
+    { "id": "blue", "label": "Ocean Blue", "hex": "#1a6fa8" },
+    { "id": "green", "label": "Matrix Green", "hex": "#1a7a4a" },
+    { "id": "silver", "label": "Titanium Silver", "hex": "#8a9bb0" }
+  ],
+  "operatingSystems": [
+    { "id": "win11", "label": "Windows 11", "icon": "🪟" },
+    { "id": "linux", "label": "Linux", "icon": "🐧" },
+    { "id": "none", "label": "None / Install Later", "icon": "⚙️" }
+  ]
+}
