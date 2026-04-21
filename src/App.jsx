@@ -1,19 +1,20 @@
-import './App.css'
-import FormData from './FormData'
+import './style/App.css'
 import Form from './Form'
 import Banner from './Banner'
 import ProgressBar from './ProgressBar'
 
+import { FormProvider } from './context-reduce/FormProvider'
+
+
+
 function App() {
 
   return (
-    <>
-      <FormData>
-        <ProgressBar />
-        <Form />
-        <Banner />
-      </FormData>
-    </>
+    <FormProvider>
+      <ProgressBar />
+      <Form />
+      <Banner />
+    </FormProvider>
   )
 }
 

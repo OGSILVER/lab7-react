@@ -2,7 +2,7 @@
   { "id": "rtx-3060", "name": "RTX 3060", "brand": "NVIDIA", "vram": 12, "tier": "Mid-Range" },
   { "id": "rtx-3060ti", "name": "RTX 3060 Ti", "brand": "NVIDIA", "vram": 8, "tier": "Mid-Range" },
   { "id": "rtx-3070", "name": "RTX 3070", "brand": "NVIDIA", "vram": 8, "tier": "High-End" },
-  { "id": "rtx-3080", "name": "RTX 3080", "brand": "NVIDIA", "vram": 10, "tier": "High-End" },
+  { "id": "rtx-3080", "name": "RTX 3080", "brand": "NVIDIA", "vram": 12, "tier": "High-End" },
   { "id": "rtx-4060", "name": "RTX 4060", "brand": "NVIDIA", "vram": 8, "tier": "Mid-Range" },
   { "id": "rtx-4060ti-8", "name": "RTX 4060 Ti 8GB", "brand": "NVIDIA", "vram": 8, "tier": "Mid-Range" },
   { "id": "rtx-4060ti-16", "name": "RTX 4060 Ti 16GB", "brand": "NVIDIA", "vram": 16, "tier": "Mid-Range" },
@@ -18,5 +18,5 @@
   { "id": "rx-7700xt", "name": "RX 7700 XT", "brand": "AMD", "vram": 12, "tier": "Mid-Range" },
   { "id": "rx-7800xt", "name": "RX 7800 XT", "brand": "AMD", "vram": 16, "tier": "High-End" },
   { "id": "rx-7900xt", "name": "RX 7900 XT", "brand": "AMD", "vram": 20, "tier": "Enthusiast" },
-  { "id": "rx-7900xtx", "name": "RX 7900 XTX", "brand": "AMD", "vram": 24, "tier": "Enthusiast" },
+  { "id": "rx-7900xtx", "name": "RX 7900 XTX", "brand": "AMD", "vram": 24, "tier": "Enthusiast" }
 ]
