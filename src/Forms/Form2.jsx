@@ -43,7 +43,7 @@ export default function Form2(){
                 payload: {field: "cpu_model", value: e.target.value}})}>
                     {cpus[state.formData.cpu_brand]?.map((model) => (
                         <option key={model.id} value={model.id}>
-                            {model.name}
+                            {model.name} 
                             cores: {model.cores} - tdp: {model.tdp}
                         </option>
                     ))}

@@ -1,5 +1,6 @@
 {
   "Intel": [
+    { "id": "Select a CPU", "name": "Select a CPU", "cores": 0, "tdp":  0 },
     { "id": "i5-12400F", "name": "Core i5-12400F", "cores": 6, "tdp": 65 },
     { "id": "i5-13600K", "name": "Core i5-13600K", "cores": 14, "tdp": 125 },
     { "id": "i7-13700K", "name": "Core i7-13700K", "cores": 16, "tdp": 125 },
@@ -8,6 +9,7 @@
     { "id": "i9-14900K", "name": "Core i9-14900K", "cores": 24, "tdp": 125 }
   ],
   "AMD": [
+    { "id": "Select a CPU", "name": "Select a CPU", "cores": 0, "tdp": 0 },
     { "id": "r5-5600X", "name": "Ryzen 5 5600X", "cores": 6, "tdp": 65 },
     { "id": "r5-7600X", "name": "Ryzen 5 7600X", "cores": 6, "tdp": 105 },
     { "id": "r7-5800X3D", "name": "Ryzen 7 5800X3D", "cores": 8, "tdp": 105 },
