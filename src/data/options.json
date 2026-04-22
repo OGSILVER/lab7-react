@@ -24,6 +24,7 @@
   "ramSizes": ["8 GB", "16 GB", "32 GB", "64 GB", "128 GB"],
   "ramTypes": ["DDR4", "DDR5"],
   "storageSizes": ["256 GB", "512 GB", "1 TB", "2 TB", "4 TB"],
+  "storageTypes": ["HDD", "SSD"],
   "vramOptions": [
     { "value": "any", "label": "Any VRAM" },
     { "value": 8, "label": "8 GB" },

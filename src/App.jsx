@@ -12,8 +12,14 @@ function App() {
   return (
     <FormProvider>
       <ProgressBar />
-      <Form />
-      <Banner />
+      <main className="app-shell">
+        <section className="form-panel">
+          <Form />
+        </section>
+        <aside className="banner-panel">
+          <Banner />
+        </aside>
+      </main>
     </FormProvider>
   )
 }

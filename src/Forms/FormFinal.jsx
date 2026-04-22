@@ -14,6 +14,7 @@ export default function FormFinal(){
                     <p><strong>Country:</strong> {state.formData.country}</p>
                     <p><strong>Budget:</strong> {state.formData.budget}</p>
                     <p><strong>Purpose:</strong> {state.formData.purpose}</p>
+                    <p><strong>Build Notes:</strong> {state.formData.build_notes}</p>
 
                     <h3>CPU</h3>
                     <p><strong>Brand:</strong> {state.formData.cpu_brand}</p>
